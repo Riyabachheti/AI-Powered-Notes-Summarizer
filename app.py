@@ -54,11 +54,11 @@ def main():
         )
         
         if summary_style == "Custom length":
-            max_length = st.slider("Max Summary Length (words):", 50, 500, 150)
-            min_length = st.slider("Min Summary Length (words):", 20, 200, 50)
+            max_length = st.slider("Max Summary Length (words):", 100, 800, 400)
+            min_length = st.slider("Min Summary Length (words):", 50, 300, 100)
         else:
             max_length, min_length = None, None
-        
+       
         # Keyword extraction settings
         st.subheader("Keyword Extraction")
         extract_keywords = st.checkbox("Extract Keywords", value=True)
@@ -356,3 +356,8 @@ def display_about():
 
 if __name__ == "__main__":
     main()
+
+
+
+
+
