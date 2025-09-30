@@ -1,0 +1,88 @@
+[
+  {
+    "id": "test_t5-small",
+    "filename": "sample_text.txt",
+    "file_type": "text/plain",
+    "original_text": "Artificial Intelligence in Healthcare: Transforming Patient Care Artificial intelligence (AI) is revolutionizing healthcare by providing innovative solutions that enhance patient care, streamline operations, and reduce costs. From diagnostic imaging to personalized treatment plans, AI technologies are being integrated across various medical specialties. One of the most significant applications of AI in healthcare is in medical imaging and diagnostics. Machine learning algorithms can analyze X-rays, MRIs, and CT scans with remarkable accuracy, often detecting abnormalities that might be missed by human radiologists. For example, AI systems have shown exceptional performance in identifying early-stage cancers, diabetic retinopathy, and cardiovascular diseases. AI-powered diagnostic tools are particularly valuable in regions with limited access to specialized medical professionals. Telemedicine platforms equipped with AI capabilities can provide preliminary diagnoses and treatment recommendations, making quality healthcare more accessible to underserved populations. Personalized medicine is another area where AI is making substantial contributions. By analyzing genetic data, medical history, and lifestyle factors, AI algorithms can predict individual patient responses to different treatments. This approach enables healthcare providers to select the most effective therapies while minimizing adverse effects. Drug discovery and development, traditionally a lengthy and expensive process, is being accelerated through AI applications. Machine learning models can identify potential drug compounds, predict their efficacy, and optimize clinical trial designs. This has the potential to bring life-saving medications to market faster and at lower costs. Administrative tasks in healthcare, such as scheduling, billing, and patient records management, are being automated using AI technologies. This reduces the administrative burden on healthcare staff, allowing them to focus more on patient care. However, the implementation of AI in healthcare also presents challenges. Data privacy and security concerns must be addressed to protect sensitive patient information. Additionally, ensuring AI systems are transparent, unbiased, and clinically validated is crucial for maintaining trust in these technologies. Despite these challenges, the future of AI in healthcare looks promising. As technology continues to advance and healthcare systems adapt, we can expect to see even more innovative applications that will further transform patient care and improve health outcomes worldwide.",
+    "summary": "AI is revolutionizing healthcare by providing innovative solutions that enhance patient care, streamline operations, and reduce costs. despite these challenges, the future of AI in healthcare looks promising. despite these challenges, the future of AI in healthcare looks promising.",
+    "keywords": [
+      "Artificial Intelligence",
+      "access",
+      "providing",
+      "therapies",
+      "analyzing",
+      "minimizing"
+    ],
+    "model_used": "t5-small",
+    "timestamp": "2025-09-30T08:45:00",
+    "text_length": 341,
+    "summary_length": 39
+  },
+  {
+    "id": "test_facebook_bart-large-cnn",
+    "filename": "sample_text.txt",
+    "file_type": "text/plain",
+    "original_text": "Artificial Intelligence in Healthcare: Transforming Patient Care Artificial intelligence (AI) is revolutionizing healthcare by providing innovative solutions that enhance patient care, streamline operations, and reduce costs. From diagnostic imaging to personalized treatment plans, AI technologies are being integrated across various medical specialties. One of the most significant applications of AI in healthcare is in medical imaging and diagnostics. Machine learning algorithms can analyze X-rays, MRIs, and CT scans with remarkable accuracy, often detecting abnormalities that might be missed by human radiologists. For example, AI systems have shown exceptional performance in identifying early-stage cancers, diabetic retinopathy, and cardiovascular diseases. AI-powered diagnostic tools are particularly valuable in regions with limited access to specialized medical professionals. Telemedicine platforms equipped with AI capabilities can provide preliminary diagnoses and treatment recommendations, making quality healthcare more accessible to underserved populations. Personalized medicine is another area where AI is making substantial contributions. By analyzing genetic data, medical history, and lifestyle factors, AI algorithms can predict individual patient responses to different treatments. This approach enables healthcare providers to select the most effective therapies while minimizing adverse effects. Drug discovery and development, traditionally a lengthy and expensive process, is being accelerated through AI applications. Machine learning models can identify potential drug compounds, predict their efficacy, and optimize clinical trial designs. This has the potential to bring life-saving medications to market faster and at lower costs. Administrative tasks in healthcare, such as scheduling, billing, and patient records management, are being automated using AI technologies. This reduces the administrative burden on healthcare staff, allowing them to focus more on patient care. However, the implementation of AI in healthcare also presents challenges. Data privacy and security concerns must be addressed to protect sensitive patient information. Additionally, ensuring AI systems are transparent, unbiased, and clinically validated is crucial for maintaining trust in these technologies. Despite these challenges, the future of AI in healthcare looks promising. As technology continues to advance and healthcare systems adapt, we can expect to see even more innovative applications that will further transform patient care and improve health outcomes worldwide.",
+    "summary": "Artificial intelligence (AI) is revolutionizing healthcare by providing innovative solutions. From diagnostic imaging to personalized treatment plans, AI technologies are being integrated across various medical specialties. Machine learning models can identify potential drug compounds, predict their efficacy, and optimize clinical trial designs.",
+    "keywords": [
+      "Artificial Intelligence",
+      "access",
+      "providing",
+      "therapies",
+      "analyzing",
+      "minimizing"
+    ],
+    "model_used": "facebook/bart-large-cnn",
+    "timestamp": "2025-09-30T08:45:00",
+    "text_length": 341,
+    "summary_length": 42
+  },
+  {
+    "id": "97ecc894-735b-4f6f-a5e3-e910448229e9",
+    "filename": "week6.pdf",
+    "file_type": "application/pdf",
+    "original_text": "--- Page 1 --- NPTEL Online Certification Course The Psychology of Language Assignment 06: Detailed Solution Indian Institute of Technology Guwahati Question 1 - __________ are set of rules for ordering words in a sentence A. declension B. grammar C. sentence structure D. syntax Answer: D Detailed Explanation: Syntax refers to the set of rules for arranging words into sentences. Question 2 - A sentence structure in which the patient is mapped onto the subject position is said to be in __________ A. inaction mode B. passive voice C. patient perspective D. complex form Answer: B Detailed Explanation: In passive voice, the subject receives the action, making the patient the subject. Question 3 - A sentence that is placed inside of another sentence for the purpose of describing a noun is called a __________ A. cleft sentence B. modifying phrase C. relative clause D. subordinate sequence Answer: C Detailed Explanation: A relative clause is embedded in another sentence and modifies a noun. Question 4 - __________ word order defines sequence of sentence elements in a language A. canonical B. expected C. standard D. syntactic Answer: A Detailed Explanation: Canonical word order refers to the typical or standard sequence of sentence elements in a language. Question 5 - A sentence structure in which the agent is mapped onto the subject position is said to be in __________ A. action mode B. active voice C. agent perspective D. simple form Answ er: B Detailed Explanation: In active voice, the subject performs the action, mapping the agent onto the subject. --- Page 2 --- Question 6- A two -staged model of sentence processing in which syntactic analysis precedes semantic interpretation is known as the __________ model A. constraint based B. dual route C. garden path D. orchard row Answer: C Detailed Explanation: The garden path model suggests syntax is processed first, then meaning, often leading to reanalysis. Question 7 - Mean length of utterance, or MLU, is the standard measure of a child’s __________ A. cognitive capacity B. linguistic development C. productive vocabulary D. syntactic complexity Answer: B Detailed Explanation: MLU measures the syntactic development in children's language use. Question 8 - A __________ is a simple sentence that is part of a larger complex sentence A. clause B. cleft C. clone D. cloze Answer: A Detailed Explanation: A clause is a simple sentence that may function as part of a larger sentence. Question 9 - A syntactic parsing strategy that assumes the simplest possible sentence structure is known as __________ A. heuristic assignment B. late closure C. minimal attachment D. simple completion Answer: C Detailed Explanation: This parsing strategy builds the simplest syntactic structure possible initially. Question 10 - A syntactic structure that attaches an introductory clause to the beginning of a sentence for the purpose of highlighting one of the participants in the event is known as a __________ sentence A. cleft B. complex C. relative D. reversible Answer: A Detailed Explanation: A cleft sentence introduces a clause early to emphasize a particular element in the sentence. --- Page 3 --- NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati --- Page 4 --- NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati --- Page 5 --- NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati --- Page 6 --- NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati --- Page 7 --- NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati --- Page 8 --- NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati --- Page 9 --- NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati --- Page 10 --- NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati",
+    "summary": "The Psychology of Language Assignment 06: Detailed Solution Indian Institute of Technology Guwahati Question 1 - __________ are set of rules for ordering words in a sentence A. declension B. grammar C. sentence structure D. syntax. Question 2 - A sentence structure in which the patient is mapped onto the subject position is said to be in _______.",
+    "keywords": [
+      "strategy",
+      "complex",
+      "elements",
+      "question",
+      "event",
+      "inaction",
+      "analysis",
+      "larger",
+      "parsing",
+      "modifies"
+    ],
+    "model_used": "facebook/bart-large-cnn",
+    "timestamp": "2025-09-30T15:04:31.816382",
+    "text_length": 658,
+    "summary_length": 58
+  },
+  {
+    "id": "bae92feb-41b3-4db3-bc9a-d80a4e837a58",
+    "filename": "week6.pdf",
+    "file_type": "application/pdf",
+    "original_text": "--- Page 1 --- NPTEL Online Certification Course The Psychology of Language Assignment 06: Detailed Solution Indian Institute of Technology Guwahati Question 1 - __________ are set of rules for ordering words in a sentence A. declension B. grammar C. sentence structure D. syntax Answer: D Detailed Explanation: Syntax refers to the set of rules for arranging words into sentences. Question 2 - A sentence structure in which the patient is mapped onto the subject position is said to be in __________ A. inaction mode B. passive voice C. patient perspective D. complex form Answer: B Detailed Explanation: In passive voice, the subject receives the action, making the patient the subject. Question 3 - A sentence that is placed inside of another sentence for the purpose of describing a noun is called a __________ A. cleft sentence B. modifying phrase C. relative clause D. subordinate sequence Answer: C Detailed Explanation: A relative clause is embedded in another sentence and modifies a noun. Question 4 - __________ word order defines sequence of sentence elements in a language A. canonical B. expected C. standard D. syntactic Answer: A Detailed Explanation: Canonical word order refers to the typical or standard sequence of sentence elements in a language. Question 5 - A sentence structure in which the agent is mapped onto the subject position is said to be in __________ A. action mode B. active voice C. agent perspective D. simple form Answ er: B Detailed Explanation: In active voice, the subject performs the action, mapping the agent onto the subject. --- Page 2 --- Question 6- A two -staged model of sentence processing in which syntactic analysis precedes semantic interpretation is known as the __________ model A. constraint based B. dual route C. garden path D. orchard row Answer: C Detailed Explanation: The garden path model suggests syntax is processed first, then meaning, often leading to reanalysis. Question 7 - Mean length of utterance, or MLU, is the standard measure of a child’s __________ A. cognitive capacity B. linguistic development C. productive vocabulary D. syntactic complexity Answer: B Detailed Explanation: MLU measures the syntactic development in children's language use. Question 8 - A __________ is a simple sentence that is part of a larger complex sentence A. clause B. cleft C. clone D. cloze Answer: A Detailed Explanation: A clause is a simple sentence that may function as part of a larger sentence. Question 9 - A syntactic parsing strategy that assumes the simplest possible sentence structure is known as __________ A. heuristic assignment B. late closure C. minimal attachment D. simple completion Answer: C Detailed Explanation: This parsing strategy builds the simplest syntactic structure possible initially. Question 10 - A syntactic structure that attaches an introductory clause to the beginning of a sentence for the purpose of highlighting one of the participants in the event is known as a __________ sentence A. cleft B. complex C. relative D. reversible Answer: A Detailed Explanation: A cleft sentence introduces a clause early to emphasize a particular element in the sentence. --- Page 3 --- NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati --- Page 4 --- NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati --- Page 5 --- NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati --- Page 6 --- NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati --- Page 7 --- NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati --- Page 8 --- NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati --- Page 9 --- NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati --- Page 10 --- NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati",
+    "summary": "The Psychology of Language Assignment 06: Detailed Solution Indian Institute of Technology Guwahati. Question 1 - __________ are set of rules for ordering words in a sentence A. declension B. grammar C. sentence structure D. syntax. Question 2 - A sentence structure in which the patient is mapped onto the subject position is said to be in ________--- A. inaction mode B. passive voice C. patient perspective D. complex form Answer: B Detailed Explanation: In passive voice, the subject receives the action, making the patient the subject.",
+    "keywords": [
+      "strategy",
+      "complex",
+      "elements",
+      "question",
+      "event",
+      "inaction",
+      "analysis",
+      "larger",
+      "parsing",
+      "modifies",
+      "order",
+      "closure"
+    ],
+    "model_used": "facebook/bart-large-cnn",
+    "timestamp": "2025-09-30T15:05:59.034381",
+    "text_length": 658,
+    "summary_length": 87
+  }
+]
