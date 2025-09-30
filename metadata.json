@@ -84,5 +84,38 @@
     "timestamp": "2025-09-30T15:05:59.034381",
     "text_length": 658,
     "summary_length": 87
+  },
+  {
+    "id": "bd9f6579-b5e8-4381-a460-dfa8d07a53f5",
+    "filename": "Direct Text Input",
+    "file_type": "text/plain",
+    "original_text": "CSMA\nCarrier Sense Multiple Access ensures fewer collisions as the station is required to first sense the medium (for idle or busy) before transmitting data. If it is idle then it sends data, otherwise it waits till the channel becomes idle. However there is still chance of collision in CSMA due to propagation delay. For example, if station A wants to send data, it will first sense the medium. If it finds the channel idle, it will start sending data. However, by the time the first bit of data is transmitted (delayed due to propagation delay) from station A, if station B requests to send data and senses the medium it will also find it idle and will also send data. This will result in collision of data from station A and CSMA\n\nCSMA Access Modes\n•\t1-Persistent: The node senses the channel, if idle it sends the data, otherwise it continuously keeps on checking the medium for being idle and transmits unconditionally(with 1 probability) as soon as the channel gets idle.\n•\tNon-Persistent: The node senses the channel, if idle it sends the data, otherwise it checks the medium after a random amount of time (not continuously) and transmits when found idle. \n•\tP-Persistent: The node senses the medium, if idle it sends the data with p probability. If the data is not transmitted ((1-p) probability) then it waits for some time and checks the medium again, now if it is found idle then it send with p probability. This repeat continues until the frame is sent. It is used in Wifi and packet radio systems. \n•\tO-Persistent: Superiority of nodes is decided beforehand and transmission occurs in that order. If the medium is idle, node waits for its time slot to send data. \nCSMA/CD\nCarrier sense multiple access with collision detection. Stations can terminate transmission of data if collision is detected. \nCSMA/CA\nCarrier sense multiple access with collision avoidance. The process of collisions detection involves sender receiving acknowledgement signals. If there is just one signal(its own) then the data is successfully sent but if there are two signals(its own and the one with which it has collided) then it means a collision has occurred. To distinguish between these two cases, collision must have a lot of impact on received signal. However it is not so in wired networks, so CSMA/CA is used in this case. \n",
+    "summary": "CSMA Carrier Sense Multiple Access ensures fewer collisions. if station A wants to send data, it will first sense the medium. however, by the time the first bit of data is transmitted from station A, it will also find it idle and will also send data. this will result in collision of data from station A and CSMA CSMA Access Modes. the node senses the channel, if idle it sends the data, otherwise it checks the medium after a random amount of . CSMA. 'i.. 'it. 'it. 'it. it. if station B wants to send data it will send 'disad if it finds the. it will also if it is 'delated due to propagation.. CSMA CSMA CSMA",
+    "keywords": [
+      "otherwise",
+      "carrier",
+      "between",
+      "being",
+      "multiple",
+      "delayed",
+      "first",
+      "nodes",
+      "terminate",
+      "until",
+      "csmaca",
+      "transmitted",
+      "again",
+      "avoidance",
+      "before",
+      "waits",
+      "wants",
+      "distinguish",
+      "however",
+      "senses"
+    ],
+    "model_used": "t5-small",
+    "timestamp": "2025-09-30T19:22:55.258780",
+    "text_length": 397,
+    "summary_length": 117
   }
 ]
