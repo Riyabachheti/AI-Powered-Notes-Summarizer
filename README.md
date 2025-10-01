@@ -102,22 +102,9 @@ The application will be available at: **http://localhost:8501**
 | T5-Small | General Text | Fast | Good | 512 tokens |
 | Pegasus-XSUM | Creative Summaries | Medium | Excellent | 512 tokens |
 
-## 🔧 Configuration Options
-
-### Summary Settings
-- **Automatic Length**: Adapts to content length (recommended)
-- **Custom Length**: Set specific word limits (50-500 words)
-- **Per-Page Adaptation**: Optimal length based on document pages
-
-### Keyword Settings
-- **Number of Keywords**: 5-20 keywords per document
-- **Extraction Methods**: KeyBERT + spaCy NER + RAKE
-- **Semantic Relevance**: Focus on conceptually important terms
-
 ## 📁 Project Structure
 
 ```
-/app/
 ├── app.py                 # Main Streamlit application
 ├── requirements.txt       # Python dependencies
 ├── run_app.py            # Application runner with setup
@@ -193,23 +180,6 @@ The application will be available at: **http://localhost:8501**
 - **Processing History** with searchable records
 - **Download Management** with organized file structure
 
-## 📝 Sample Use Cases
-
-### Academic Research
-- Summarize research papers and articles
-- Extract key concepts and terminology
-- Generate literature review summaries
-
-### Business Documents
-- Process meeting notes and reports
-- Summarize contracts and proposals  
-- Extract action items and key decisions
-
-### Content Creation
-- Summarize source materials for articles
-- Generate social media content from long-form text
-- Create executive summaries from detailed reports
-
 ## 🔒 Data Privacy
 
 - **Local Processing**: All AI processing happens locally
@@ -228,17 +198,9 @@ The application will be available at: **http://localhost:8501**
 
 ## 🤝 Contributing
 
-This is a production-ready application showcasing:
+This is an application showcasing:
 - **Advanced NLP Integration** with HuggingFace models
 - **Professional UI/UX** with Streamlit
 - **Robust File Processing** for multiple formats
 - **Export and History Management**
 - **Error Handling and Validation**
-
-## 📄 License
-
-This project demonstrates advanced AI/ML implementation for document processing and summarization using state-of-the-art transformer models.
-
----
-
-**🚀 Ready to transform your document processing workflow with AI? Start the application and experience intelligent summarization!**
